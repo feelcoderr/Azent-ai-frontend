@@ -1,11 +1,11 @@
 import React from "react";
 import "./App.css";
-import AzentLanding from "./components/AzentLanding";
+import AzentWebsite from "./components/AzentLanding";
 
 function App() {
   return (
     <div className="App">
-      <AzentLanding />
+      <AzentWebsite />
     </div>
   );
 }
