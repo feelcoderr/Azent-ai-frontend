@@ -988,7 +988,7 @@ const AzentWebsite = () => {
                 <div className="bg-red-50 border border-red-200 text-red-800 px-6 py-4 rounded-lg">
                   <p className="font-semibold">
                     Something went wrong. Please try again or email us directly
-                    at ai.azent.agency@gmail.com
+                    at team@azent.in
                   </p>
                 </div>
               )}
@@ -1050,7 +1050,7 @@ const AzentWebsite = () => {
 
             <div className="flex items-center space-x-8 text-sm text-slate-400">
               <span className="hover:text-white transition-colors">
-                ai.azent.agency@gmail.com
+                team@azent.in
               </span>
               <span className="hover:text-white transition-colors">
                 +91 7621083656
