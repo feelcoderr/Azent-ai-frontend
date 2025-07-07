@@ -228,7 +228,8 @@ const AzentWebsite = () => {
                   Results
                 </a>
                 <a
-                  href="#contact"
+                  href="https://forms.gle/uEK7zYgobHZ9SbnY6"
+           target="_blank"
                   className="block bg-slate-900 text-white px-6 py-2.5 rounded-lg text-center font-medium"
                 >
                   Start Project
